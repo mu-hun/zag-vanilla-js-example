@@ -1,0 +1,11 @@
+{
+  "name": "zag-vanilla-js-example",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "packageManager": "pnpm@10.12.3",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
