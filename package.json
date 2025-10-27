@@ -2,7 +2,7 @@
   "name": "zag-vanilla-js-example",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "pnpm run --filter=website dev"
   },
   "packageManager": "pnpm@10.12.3",
   "devDependencies": {
