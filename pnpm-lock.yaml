@@ -251,9 +251,6 @@ importers:
         specifier: ^5.1.6
         version: 5.1.6
     devDependencies:
-      typescript:
-        specifier: ^5.9.3
-        version: 5.9.3
       vite:
         specifier: ^7.1.9
         version: 7.1.12

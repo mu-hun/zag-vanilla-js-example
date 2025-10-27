@@ -110,7 +110,10 @@
   color: lightgray;
 }
 
-[data-scope="slider"][data-part="marker"]:is([data-state="under-value"], [data-state="at-value"]) {
+[data-scope="slider"][data-part="marker"]:is(
+    [data-state="under-value"],
+    [data-state="at-value"]
+  ) {
   color: red;
 }
 

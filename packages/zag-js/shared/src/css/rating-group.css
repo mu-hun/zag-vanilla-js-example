@@ -16,11 +16,13 @@
   color: #bdbdbd;
 }
 
-[data-scope="rating-group"][data-part="item"][data-highlighted] [data-part="star"] {
+[data-scope="rating-group"][data-part="item"][data-highlighted]
+  [data-part="star"] {
   color: #ffb400;
 }
 
-[data-scope="rating-group"][data-part="item"][data-highlighted][data-disabled] [data-part="star"] {
+[data-scope="rating-group"][data-part="item"][data-highlighted][data-disabled]
+  [data-part="star"] {
   color: #a1a1a1;
 }
 
